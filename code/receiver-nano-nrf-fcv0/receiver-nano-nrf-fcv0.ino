@@ -43,21 +43,23 @@ void resetData()
   // 'safe' values to use when no radio input is detected
   data.j1PotX = 0;
   data.j1PotY = 127;
-  data.j1Button = 127;
+  data.j1Button = 0;
   data.j2PotX = 127;
-  data.j2PotY = 0;
+  data.j2PotY = 127;
   data.j2Button= 0;
   
   setPPMValuesFromData();
 }
 
+
+// Mutliwii THROTTLE,YAW,ROLL,PITCH
 void setPPMValuesFromData()
 {
-  ppm[0] = map(data.j1PotX, 0, 255, 1000, 2000);
+  ppm[0] = map(data.j1PotX,     0, 255, 1000, 2000);
   ppm[1] = map(data.j1PotY,     0, 255, 1000, 2000);
-  ppm[2] = map(data.j1Button,   0, 255, 1000, 2000);
+  ppm[2] = map(data.j2PotY,     0, 255, 1000, 2000);
   ppm[3] = map(data.j2PotX,     0, 255, 1000, 2000);
-  ppm[4] = map(data.j2PotY,     0, 1, 1000, 2000);
+  ppm[4] = map(data.j1Button,   0, 1, 1000, 2000);  
   ppm[5] = map(data.j2Button,   0, 1, 1000, 2000);  
   }
 
