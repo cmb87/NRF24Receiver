@@ -1,0 +1,52 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=receiver
+*Date=07:15:50
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;16.4959;-7.28113;180;Bottom;J9
+2;;;34.252;-12.3671;90;Bottom;Nano_Receiver
+3;;THT;24.1396;-13.652;180;Bottom;J18
+4;;;67.1967;-2.48894;180;Top;TXT1
+5;;;2.39888;-2.20125;0;Bottom;Hole1
+6;;;34.1991;-13.1032;0;Top;TXT1
+7;3V;;7.5026;-8.57204;90;Bottom;3V Source2
+8;;THT;34.1489;-25.0611;0;Bottom;PPM_Connector1
+9;;THT;12.6859;-17.4411;180;Bottom;J8
+10;;;67.1752;-10.8236;180;Top;TXT1
+11;;;21.186;-8.81439;180;Top;TXT1
+12;;;8.11313;-4.01425;0;Top;TXT1
+13;3V;;44.3089;-12.3611;0;Bottom;3V Source1
+14;;;44.9993;-17.149;180;Top;TXT1
+15;;THT;34.2996;-13.652;180;Bottom;J15
+16;;THT;31.6089;-25.0611;0;Bottom;PPM_Connector2
+17;;;15.9186;-25.3418;180;Top;TXT1
+18;;;67.1688;-27.6011;0;Bottom;Hole2
+19;;THT;39.3559;-25.0611;180;Bottom;J4
+20;;THT;24.1396;-7.30204;180;Bottom;J14
+21;;;-3.61717;-16.7857;-90;Bottom;NRF24
+22;3V;;21.4489;-12.3611;0;Bottom;3V Source
+23;;sup500f;70.7249;-12.2661;0;Bottom;GY-NEO6MV2
+24;;THT;34.2996;-7.30204;180;Bottom;J16
+25;;;20.9627;-16.5537;180;Top;TXT1
+26;;THT;41.7689;-25.0611;0;Bottom;PPM_Connector
+27;;THT;67.1689;-6.01113;0;Bottom;J3
+28;;THT;26.5289;-25.0611;0;Bottom;PPM_Connector4
+29;;THT;29.0689;-25.0611;0;Bottom;PPM_Connector3
+30;;;2.39888;-27.6011;0;Bottom;Hole3
+31;;THT;31.7596;-7.30204;180;Bottom;J17
+32;;;44.7016;-8.5167;180;Top;TXT1
+33;;THT;34.1726;-2.22204;-90;Bottom;J13
+34;;THT;44.4359;-25.0611;180;Bottom;J5
+35;3V;;18.9326;-12.382;0;Bottom;3V Source3
+36;3V;;46.8726;-12.382;0;Bottom;3V Source4
+37;;;65.6069;-14.6821;-90;Top;TXT1
