@@ -1,0 +1,55 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=espreceiver
+*Date=07:37:33
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;18.9089;-10.6678;0;Bottom;J19
+2;;;68.1149;-1.90075;0;Bottom;Hole4
+3;;;1.66799;-8.12503;0;Top;TXT1
+4;;THT;59.5489;-18.2878;180;Bottom;J4
+5;;;65.1785;-24.3791;0;Top;TXT1
+6;;THT;7.47889;-9.39778;180;Bottom;J18
+7;;;1.61339;-5.28589;0;Top;TXT1
+8;;THT;59.5489;-5.58778;180;Bottom;J14
+9;;;24.316;-14.4778;90;Bottom;WeMos D1 Mini1
+10;;;65.1916;-16.6088;0;Top;TXT1
+11;;;8.98425;-25.3237;0;Top;TXT1
+12;;THT;44.3089;-23.3678;0;Bottom;J7
+13;;;1.9621;-1.83238;0;Bottom;Hole1
+14;;THT;46.8489;-18.2878;0;Bottom;J2
+15;;;2.34933;-16.1534;0;Top;TXT1
+16;;THT;25.2589;-14.4778;0;Bottom;J9
+17;;THT;68.4389;-18.2878;180;Bottom;J5
+18;;THT;25.2589;-28.4478;-90;Bottom;J6
+19;;;2.26858;-24.6162;0;Top;TXT1
+20;;THT;2.39889;-20.8278;0;Bottom;J1
+21;;THT;49.3889;-5.58778;180;Bottom;J16
+22;;;1.72259;-10.6912;0;Top;TXT1
+23;;;54.5198;-7.08765;0;Top;TXT1
+24;;THT;62.0889;-18.2878;180;Bottom;J10
+25;;;54.5744;-1.68235;0;Top;TXT1
+26;;THT;46.8489;-5.58778;-180;Bottom;J12
+27;;;54.356;-9.49001;0;Top;TXT1
+28;;;52.9791;-27.7261;0;Top;TXT1
+29;;THT;16.3689;-22.0978;0;Bottom;J8
+30;;;1.8529;-28.0656;0;Bottom;Hole2
+31;;;65.1927;-19.318;0;Top;TXT1
+32;;;65.4237;-21.8401;0;Top;TXT1
+33;;THT;16.3689;-13.2078;0;Bottom;J13
+34;;THT;4.93889;-9.39778;-180;Bottom;J17
+35;;THT;62.0889;-5.58778;180;Bottom;J15
+36;;;54.5744;-4.4669;0;Top;TXT1
+37;;THT;8.74889;-28.4478;-90;Bottom;J20
+38;;;1.72259;-13.2573;0;Top;TXT1
+39;;THT;25.2589;-5.58778;-90;Bottom;J11
+40;;;68.1149;-28.0537;0;Bottom;Hole3
